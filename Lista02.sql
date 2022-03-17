@@ -1,3 +1,4 @@
+--a) Criar a tabela EMPREGADOS
 create table empregados
 (
 matr char(6),
