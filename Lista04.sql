@@ -1,5 +1,4 @@
 --a) Criar as seguintes tabelas: 
-
 create table CDS 
 (Codigo int, 
 Nome varchar(30), 
@@ -24,7 +23,6 @@ CONSTRAINT PK_GRAV PRIMARY KEY(codgrav));
 select * from GRAVADORA 
 
 --b) Inserir 10 registros na tabela CDS e 5 registros na tabela GRAVADORA. 
-
 insert into CDS values 
 (010,'FERNANDO E SOROCABA',100,'20201014',30,'AMERICANAS',0), 
 (020,'ANA CAROLINA',200,'20191116',35,'AMAZON',1), 
